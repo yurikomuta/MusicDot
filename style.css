@@ -12,6 +12,9 @@ body{
   color: #3D3D3D;
 }
 
+a{
+  text-decoration: none;
+}
 .logo_top{
   width: 16em;
 }
